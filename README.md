@@ -7,7 +7,7 @@ A tragically not-very-persistent to-do list. Because I just wanted one.
 1. Clone this repo to your local computer:
 
 ```shell
-$git clone git@github.com:huijing/todays-todos.git
+$ git clone git@github.com:huijing/todays-todos.git
 ```
 
 2. Install the necessary packages for this repo:
